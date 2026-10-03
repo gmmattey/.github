@@ -19,6 +19,7 @@ A marca reúne produtos de diferentes categorias. Não é limitada a telecom, re
 
 ## Portfólio em destaque
 
+- **SignallQ:** diagnóstico da qualidade da conexão.
 - **Linka:** velocidade e qualidade da conexão.
 - **WiFi Casa:** qualidade do Wi-Fi por cômodo.
 - **Lagcheck:** diagnóstico da conexão para jogos.

@@ -10,6 +10,7 @@ Somos um estúdio independente de aplicativos criado por Luiz Fernando Giammatte
 
 | App | Para que serve |
 | --- | --- |
+| **SignallQ** | Diagnosticar a qualidade da conexão e ajudar a entender problemas de internet. |
 | **Linka** | Medir a velocidade e a qualidade da internet, acompanhar a conexão e entender os resultados. |
 | **WiFi Casa** | Avaliar a qualidade do Wi-Fi em cada cômodo e comparar mudanças na rede de casa. |
 | **Lagcheck** | Avaliar a qualidade da conexão para jogos, com foco em latência, estabilidade e diagnóstico. |
