@@ -2,7 +2,7 @@
 
 ## Identidade e estado atual
 
-- **Organização:** `buildea-labs`
+- **Organização:** `gmmattey`
 - **Finalidade:** governança e perfil público da organização.
 - **Classificação:** governança.
 - **Estado atual:** contém o perfil público em `profile/` e a referência de marca em `BRAND.md`; workflows versionados: a validar.

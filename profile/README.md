@@ -1,25 +1,26 @@
-<img src="https://raw.githubusercontent.com/gmmattey/.github/main/profile/assets/cover-buildea.png" alt="Buildea" width="100%" />
+<img src="https://raw.githubusercontent.com/gmmattey/.github/main/profile/assets/cover-gmmattey.png" alt="gmmattey — Apps simples. Problemas reais." width="100%" />
 
-**Ideas. Built.**
+# gmmattey
 
-<sub>Buildea é a marca institucional da organização.</sub>
+**Apps simples. Problemas reais.**
 
-Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial acelera a execução; arquitetura, decisões e responsabilidade continuam humanas.
+Somos um estúdio independente de aplicativos criado por Luiz Fernando Giammattey. Desenvolvemos produtos próprios para tornar tarefas do dia a dia mais simples — da qualidade da internet aos hábitos de consumo.
 
-- **SignallQ:** https://signallq.pages.dev/
-- **Google Play (SignallQ):** https://play.google.com/store/apps/details?id=io.signallq.app
+## Nossos apps
 
-## Produtos
+| App | Para que serve |
+| --- | --- |
+| **Linka** | Medir a velocidade e a qualidade da internet, acompanhar a conexão e entender os resultados. |
+| **WiFi Casa** | Avaliar a qualidade do Wi-Fi em cada cômodo e comparar mudanças na rede de casa. |
+| **Lagcheck** | Avaliar a qualidade da conexão para jogos, com foco em latência, estabilidade e diagnóstico. |
+| **RefriLog** | Registrar o consumo de refrigerantes e acompanhar hábitos e metas de redução no seu ritmo. |
 
-**[SignallQ](https://signallq.pages.dev/)** — diagnóstico de conectividade para consumidores e profissionais de redes.
+Cada produto tem sua própria identidade e um problema claro para resolver. Todos compartilham a mesma assinatura: **by gmmattey**.
 
-**Savro** — organização patrimonial local-first para investidores brasileiros, Android e iOS nativos: sem conta, sem nuvem, os dados nunca saem do aparelho.
+## Como construímos
 
-## Arquitetura de marca
+Priorizamos experiências simples, medições e informações claras, além de cuidado com os dados de quem usa nossos apps.
 
-- **Empresa e organização:** Buildea
-- **Assinatura dos produtos:** by Buildea
+Usamos inteligência artificial para acelerar o desenvolvimento. As decisões de produto, a revisão e a responsabilidade pela entrega continuam humanas.
 
-## Como trabalhamos
-
-Poucos produtos, construídos com cuidado e mantidos ao longo do tempo. Priorizamos simplicidade, evidência e foco antes de ampliar escopo.
+[App Store](https://apps.apple.com/br/developer/luiz-fernando-giammattey/id6808479533) · [Repositórios públicos](https://github.com/orgs/gmmattey/repositories)

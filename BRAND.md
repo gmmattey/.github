@@ -1,74 +1,50 @@
-# Arquitetura de marca — 7A
+# Identidade de marca — gmmattey
 
 ## Decisão vigente
 
-A organização mantém **7A Labs** como nome institucional e jurídico, mas utiliza **7A** como expressão visual principal.
+**gmmattey** é a marca principal do estúdio independente de aplicativos de Luiz Fernando Giammattey e o nome público desta organização.
 
-O objetivo é preservar o nome da empresa sem obrigar todos os produtos e superfícies a exibirem o bloco completo “7A Labs”.
+A marca reúne produtos de diferentes categorias. Não é limitada a telecom, redes ou ao ecossistema SignallQ.
 
 ## Hierarquia
 
 | Papel | Nome aprovado |
-|---|---|
-| Empresa / organização | 7A Labs |
-| Expressão visual principal | 7A |
-| Descritor institucional | Independent Product Lab |
-| Assinatura de produto | by 7A |
-| Identificador técnico | `7ALabs` |
-| Ecossistema principal | SignallQ |
+| --- | --- |
+| Marca principal | gmmattey |
+| Organização e identificador no GitHub | `gmmattey` |
+| Descritor | Estúdio independente de aplicativos |
+| Mensagem da marca | Apps simples. Problemas reais. |
+| Assinatura preferencial de produto | by gmmattey |
+| Alternativa em inglês | A gmmattey app |
 
-## Produtos do ecossistema SignallQ
+## Portfólio em destaque
 
-- SignallQ
-- SignallQ PRO
-- SignallQ Admin
-- SignallQ Agente
+- **Linka:** velocidade e qualidade da conexão.
+- **WiFi Casa:** qualidade do Wi-Fi por cômodo.
+- **Lagcheck:** diagnóstico da conexão para jogos.
+- **RefriLog:** registro e acompanhamento do consumo de refrigerantes.
+
+Novos produtos podem integrar a marca sem relação obrigatória com conectividade. Cada app mantém seu próprio nome e identidade.
+
+## Identidade visual
+
+- Nome sempre em minúsculas: **gmmattey**.
+- Wordmark geométrica e arredondada em azul escuro.
+- Monograma **gm** com ponto laranja, conforme a identidade visual aprovada.
+- Fundo claro, composição minimalista e espaço em branco.
+- Azul escuro e laranja como cores institucionais.
+- Banner do perfil: `profile/assets/cover-gmmattey.png`.
 
 ## Regras de uso
 
-1. Use **7A** em logos reduzidos, assinaturas, avatares e aplicações de pouco espaço.
-2. Use **7A Labs** em contratos, políticas, documentos institucionais, créditos legais e apresentação formal da empresa.
-3. Use **by 7A** como assinatura discreta dos produtos, sem competir com a marca principal.
-4. Não use “7Agents”, “7Agents Studio”, “7A Digital”, “7A Tech” ou variações não aprovadas.
-5. No GitHub, nomes técnicos e URLs podem continuar usando `7ALabs`.
-6. A assinatura “by 7A” não deve aparecer repetidamente em telas operacionais.
-7. Em produtos white-label, a marca do cliente prevalece. A assinatura institucional deve ser configurável ou restrita a superfícies internas e legais.
-
-## Padrão visual da assinatura
-
-Texto preferencial:
-
-```text
-by 7A
-```
-
-Diretrizes:
-
-- “by” em caixa baixa;
-- “7A” com maior peso visual;
-- tamanho secundário em relação à marca do produto;
-- contraste acessível nos temas claro e escuro;
-- uso preferencial do símbolo 7A existente;
-- não substituir a identidade do produto por um lockup conjunto permanente.
-
-## Exemplos
-
-```text
-SignallQ
-by 7A
-```
-
-```text
-SignallQ PRO
-by 7A
-```
-
-Em contexto institucional ou legal:
-
-```text
-SignallQ é um produto da 7A Labs.
-```
+1. Use **gmmattey** como marca pública e **by gmmattey** como assinatura discreta.
+2. Preserve a identidade própria dos aplicativos; a marca do estúdio é secundária.
+3. Não acrescente “Labs”, “Apps”, “Software” ou “Studio” ao nome principal como se fossem marcas distintas.
+4. Buildea e 7A Labs são identidades anteriores e não devem ser usadas no perfil público atual.
+5. Não trate a marca como uma razão social ou entidade jurídica. Créditos legais e identificação de vendedor devem refletir os dados reais do titular.
+6. A assinatura da marca não precisa se repetir nas telas operacionais dos apps.
+7. Não altere automaticamente nomes de repositórios ou identidades dos produtos ao atualizar a marca do estúdio.
 
 ## Governança
 
-Mudanças nesta arquitetura devem avaliar impacto sobre todos os produtos do portfólio e ser registradas neste documento antes de serem aplicadas de forma ampla.
+Este documento registra a identidade vigente da organização. Alterações nos produtos devem seguir o escopo e a autorização específicos de cada projeto.
